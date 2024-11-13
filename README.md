@@ -1,4 +1,5 @@
-# Things 3 Project Exporter
+# ThingsToMarkdown
+## Export Things 3 Projects as Markdown Files on macOS
 
 Export your Things 3 projects as individual Markdown files with all metadata preserved. Perfect for documentation, backup, or migrating project data.
 
